@@ -10,14 +10,12 @@ password: user
 
 Для входа от имени менеджера:
 ---
-
 login: manager
 
 password: manager
 
 Для входа от имени администратора:
 ---
-
 login: admin
 
 password: admin
